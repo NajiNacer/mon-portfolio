@@ -1,4 +1,4 @@
 HELLO 
 
-Ce portfolio est gratuit et simple. il présente vos projets et autres.
+Mon portfolio présente mes projets et autres.
 
