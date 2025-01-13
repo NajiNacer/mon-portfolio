@@ -22,17 +22,3 @@ Bienvenue sur mon portfolio, où je mets en avant mes compétences en développe
 - Partager mes projets et leur impact.
 - Offrir une plateforme professionnelle pour entrer en contact avec des recruteurs ou collaborateurs.
 
-## 📂 Structure du projet
-
-```plaintext
-Nacerportfolio.github.io/
-├── index.html          # Page d'accueil
-├── projects.html       # Page dédiée aux projets
-├── contact.html        # Formulaire de contact
-├── css/
-│   ├── main.css        # Styles principaux
-│   ├── responsive.css  # Styles pour les différentes tailles d'écran
-├── js/
-│   ├── main.js         # Scripts pour les fonctionnalités dynamiques
-├── images/             # Ressources graphiques
-└── README.md           # Documentation
